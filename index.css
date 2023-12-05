@@ -1,0 +1,68 @@
+audio{
+    position: absolute;
+    right: 0;
+}
+#shark{
+    position: absolute;
+    top: 100px;
+    left: 0px;
+    animation-name: shark;
+    animation-duration: 7s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    animation-play-state: running;
+}
+#diver{
+    position:absolute;
+    left:50px;
+    top: 350px;
+    animation-name: diver;
+    animation-duration:9s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    animation-play-state: running;
+} 
+#clownfish{
+    position:absolute;
+    left:190px;
+    top: 350px;
+    animation-name:clownfish;
+    animation-duration:5s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    position: absolute;
+    animation-play-state: running;
+} 
+#turtle{
+    position:absolute;
+    left:570px;
+    top: 180px;
+    animation-name:turtle;
+    animation-duration:7s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    position: absolute;
+    animation-play-state: running;
+}
+#SchoolofFish{
+    position:absolute;
+    left:420px;
+    top: 200px;
+    animation-name:SchoolofFish;
+    animation-duration:6s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    position: absolute;
+    animation-play-state: running;
+}
+#Fish{
+    position:absolute;
+    left:300px;
+    top: 200px;
+    animation-name:Fish;
+    animation-duration:6s;
+    animation-timing-function: linear;
+    animation-iteration-count:infinite;
+    position: absolute;
+    animation-play-state: running;
+}
